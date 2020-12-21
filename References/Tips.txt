@@ -1,0 +1,112 @@
+How to Look Great to Top Companies
+
+
+
+Hi there!
+
+
+Your Turing Profile is critical to getting matched with an amazing remote engineering job. Turing will package your Profile into a nice resume and submit it to hiring managers. Therefore, before you submit your Profile, you should do everything you can to make it stand out.
+
+
+Even if your work experience is perfect, a subpar Profile could sink your chances of getting matched with a top company. But if you combine relevant experience with an effective Profile, you’ll sail right into a top company.
+
+
+Highlight your accomplishments rather than your responsibilities.
+When you are writing out your experience, provide bullet points to each question that the Profile is asking you. Do NOT use this space to simply describe your responsibilities. Instead, focus on your achievements.
+
+
+Google asks candidates to candidates to articulate their experience using the X-Y-Z rule:
+
+“Accomplished [X] as measured by [Y], by doing [Z].”
+
+
+This means that you want to focus on accomplishments and back them up with measurable results and the impact that you produced. By providing data, you’ll leave a stronger impression than you would with a vague statement.
+
+
+“Think of the mark you left on each company. What specific, measurable results were accomplished because you were in that position and not somebody else?”
+
+
+Real Example
+Here’s a real example of using the X-Y-Z rule:
+
+
+OK: "Improved Instagram."
+Better: "Improved Instagram Android’s Feed scroll latency by 72%."
+Best:
+Improved Instagram Android’s Feed scroll latency by 72%, by completely rewriting it using Litho (a React-based framework) to provide highly efficient, multithreaded Android views through a simple functional API based on Java annotations.
+As Tech Lead, I led a team of 50+ Android engineers and guided the new architecture and framework APIs through a partnership with the Litho product teams in London, Seattle, and Menlo Park.
+As a result of this feature, the average content interactions per user increased by 26%, incentivizing users to stay longer on the Instagram platform and increasing ad revenue.
+
+Accomplishment Examples
+Think about these key questions when you are writing your Profile:
+
+
+What did you build?
+What languages, frameworks, and tools did you use?
+React, AWS Platform, TensorFlow, etc.
+What was your role in the team?
+I built X as part of a team of 10 people;
+I led the team;
+I was the Tech lead;
+I was the Engineering Manager.
+Who did you have to collaborate/work with closely to build this?
+Full-stack, backend, or frontend engineers
+Product managers
+Designers
+Data Scientists
+Operations
+What business impact did it drive? What metric did it improve?
+Reduced latency by 75%
+Scaled API throughput 10X
+Reached 1M users
+Please include public links to mobile or web apps. If it doesn't exist, include a link to the company's website.
+
+Use Proactive Action Verbs
+Beyond quantifying your areas of success, also aim to use proactive action verbs. Some effective verbs for Profiles include:
+
+
+Developed
+Implemented
+Directed
+Supervised
+Created
+Invented
+Facilitated
+Supplied
+Initiated
+Streamlined
+Provided
+Solved
+Guided
+Trained
+Taught
+Tracked
+Conducted
+
+Power verbs like these put you in the driver’s seat. If you start a bullet point with “responsible for,” you’re not saying much about what you did in the role.
+
+
+As you build your Profile, remember to sell yourself. If the Profile could be about anyone with a similar work history, you need to rework the language to sound more proactive and unique.
+
+
+Resume Must-Have:
+X-Y-Z Rule: Accomplished [X] by [Y], by doing [Z].
+What did you build?
+What languages, frameworks, and tools did you use?
+React, AWS Platform, TensorFlow, etc.
+What was your role in the team?
+I built X as part of a team of 10 people;
+I led the team;
+I was the Tech lead;
+I was the Engineering Manager.
+Who did you have to collaborate/work with closely to build this?
+Full-stack, backend, or frontend engineers
+Product managers
+Designers
+Data Scientists
+Operations
+What business impact did it drive? What metric did it improve?
+Reduced latency by 75%
+Scaled API throughput 10X
+Reached 1M users
+Please include public links to mobile or web apps. If it doesn't exist, include a link to the company's website.
